@@ -1,0 +1,17 @@
+{
+  "links": 1562356,
+  "score_quantiles": {
+    "0.1": 0.1,
+    "0.5": 0.5,
+    "0.9": 0.9
+  },
+  "validation_daejeon": {
+    "daejeon_links": 25479,
+    "daejeon_accidents_on_links": 31518.0,
+    "roc_auc": 0.7590779800069347,
+    "ap": 0.6878247167843515,
+    "ap_random": 0.39287256171749285,
+    "top10_length_capture": 0.38152801573703915
+  },
+  "seconds": 210
+}
